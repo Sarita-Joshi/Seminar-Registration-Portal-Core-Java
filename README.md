@@ -31,15 +31,7 @@ This project is built complete using core java. It is a GUI application for book
 
 Here are few screenshots of the project.
 
-![enter image description here](
-https://drive.google.com/uc?id=1UUu26OnrZKSTyzta2HfmWEqfMV618zW9
- =500x340)
-
-
-
-![enter image description here](
-https://drive.google.com/uc?id=1cNh15hDIGrct1vWto1z7m0goBeXyTtHi
- =500x340)
+<img src="imgs/Screenshot%20(7).png" width="49%">   <img src="imgs/Screenshot%20(11).png" width="49%">
 
 
 
